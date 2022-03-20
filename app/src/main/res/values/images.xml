@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://recmiennam.com/wp-content/uploads/2018/04/hinh-anh-hoa-cuc-dep-80.jpg</item>
+        <item>https://st.quantrimang.com/photos/image/2020/07/11/Anh-Hoa-Cuc-13.jpg</item>
+        <item>https://dbk.vn/uploads/ckfinder/images/1-content/hoa-dep-1.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://i.pinimg.com/222x/d0/ca/95/d0ca9514093aa7b3cb9df51dc47df01f.jpg</item>
+        <item>https://thumb.ex-cdn.com/EXP/media.nongnghiep.vn/resize/680x408/files/quangcn/2020/02/27/3521-18_35_113_gau-truc-do.jpg</item>
+        <item>https://khuyennongtphcm.com/wp-content/uploads/2020/07/nuoi-tho-thit-4-1.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://nauan.quehuong.org/b/16911.jpg</item>
+        <item>https://cdn.daotaobeptruong.vn/wp-content/uploads/2020/12/hau-nuong-mo-hanh.jpg</item>
+        <item>https://cdn.tgdd.vn/2020/11/CookProduct/1-1200x676-22.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
